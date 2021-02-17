@@ -2,8 +2,9 @@ module.exports = {
   title: 'Jules Peguet',
   tagline: 'Code less, Search more',
   url: 'https://jaden37.github.io',
-  baseUrl: '/',
+  baseUrl: '/portfolio/',
   onBrokenLinks: 'throw',
+  onDuplicateRoutes: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Jaden37', // Usually your GitHub org/user name.
@@ -43,7 +44,7 @@ module.exports = {
             },
             {
               label: 'Kubernetes Installation',
-              to: 'docs/1_install_&_configuration/1_install_VM',
+              to: 'docs/Kubernetes/1_install_&_configuration/1_install_VM',
             },
           ],
         },
@@ -89,13 +90,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Jaden37/docusaurus/',
+            'https://github.com/Jaden37/portfolio/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Jaden37/docusaurus/',
+            'https://github.com/Jaden37/portfolio/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
