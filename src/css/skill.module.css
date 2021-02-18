@@ -1,0 +1,30 @@
+.skills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+.imageContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skillImage {
+    height: 500px;
+    width: 500px;
+}
+
+.skillIconImage {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+}
+
+.line {
+    height: 1px;
+    width: 50%;
+    background-color: gray;
+}

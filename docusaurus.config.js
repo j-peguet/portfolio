@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Jules Peguet',
-  tagline: 'Code less, Search more',
+  tagline: 'Student developper',
   url: 'https://jaden37.github.io',
   baseUrl: '/portfolio/',
   onBrokenLinks: 'throw',
@@ -49,7 +49,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact me',
           items: [
             {
               label: 'Linkedin',
