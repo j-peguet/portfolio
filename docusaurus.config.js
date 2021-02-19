@@ -2,7 +2,7 @@ module.exports = {
   title: 'Jules Peguet',
   tagline: 'Student developper',
   url: 'https://jaden37.github.io',
-  baseUrl: '/portfolio/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onDuplicateRoutes: 'throw',
   onBrokenMarkdownLinks: 'warn',
