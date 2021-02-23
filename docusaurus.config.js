@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Jules Peguet',
   tagline: 'Student developper',
-  url: 'https://jaden37.github.io',
+  url: 'https://j-peguet.github.io/portfolio',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onDuplicateRoutes: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Jaden37', // Usually your GitHub org/user name.
+  organizationName: 'j-peguet', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Jaden37/portfolio',
+          href: 'https://github.com/j-peguet/portfolio',
           label: 'GitHub',
           position: 'right',
         },
@@ -74,7 +74,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Jaden37',
+              href: 'https://github.com/j-peguet',
             },
           ],
         },
@@ -90,13 +90,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Jaden37/portfolio/blob/master/',
+            'https://github.com/j-peguet/portfolio/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Jaden37/portfolio/blob/master/',
+            'https://github.com/j-peguet/portfolio/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
