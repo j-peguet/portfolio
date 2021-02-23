@@ -14,7 +14,7 @@ module.exports = {
       title: 'Jules Peguet',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       items: [
         {
