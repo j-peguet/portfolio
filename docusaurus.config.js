@@ -13,10 +13,21 @@ module.exports = {
     // Metadatas
     image: 'img/logo.jpg',
     metadatas: [
-      {name: 'description', content: 'Jules Peguet: Portfolio, documentation/blog'},
-      {name: 'og:description', content: 'Jules Peguet: Portfolio, documentation/blog'},
-      {property: 'og:description', content: 'Jules Peguet: Portfolio, documentation/blog'},
-      {name: 'twitter:card', content: 'Jules Peguet: Portfolio, documentation/blog'}
+      // Primary Meta Tags
+      {name: 'description', content: 'Jules Peguet'},
+      {name: 'description', content: 'Portfolio, documentation/blog'},
+      // Open Graph/ Facebook
+      {property: 'og:type', content: 'website'},
+      {property: 'og:url', content: 'https://www.julespeguet.fr/'},
+      {property: 'og:title', content: 'Jules Peguet'},
+      {property: 'og:description', content: 'Portfolio, documentation/blog'},
+      {property: 'og:image', content: 'https://j-peguet.github.io/portfolio/img/logo.jpg'},
+      // Twitter
+      {property: 'twitter:card', content: 'summary_large_image'},
+      {property: 'twitter:url', content: 'https://www.julespeguet.fr/'},
+      {property: 'twitter:title', content: 'Jules Peguet'},
+      {property: 'twitter:description', content: 'Portfolio, documentation/blog'},
+      {property: 'twitter:image', content: 'https://j-peguet.github.io/portfolio/img/logo.jpg'},
     ],
     navbar: {
       title: 'Jules Peguet',
