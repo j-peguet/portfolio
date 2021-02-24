@@ -12,7 +12,12 @@ module.exports = {
   themeConfig: {
     // Metadatas
     image: 'img/logo.jpg',
-    metadatas: [{name: 'twitter:card', content: 'Jules Peguet: Portfolio, documentation/blog'}],
+    metadatas: [
+      {name: 'description', content: 'Jules Peguet: Portfolio, documentation/blog'},
+      {name: 'og:description', content: 'Jules Peguet: Portfolio, documentation/blog'},
+      {property: 'og:description', content: 'Jules Peguet: Portfolio, documentation/blog'},
+      {name: 'twitter:card', content: 'Jules Peguet: Portfolio, documentation/blog'}
+    ],
     navbar: {
       title: 'Jules Peguet',
       logo: {
