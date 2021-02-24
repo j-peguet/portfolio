@@ -10,6 +10,9 @@ module.exports = {
   organizationName: 'j-peguet', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   themeConfig: {
+    // Metadatas
+    image: 'img/logo.jpg',
+    metadatas: [{name: 'twitter:card', content: 'Jules Peguet: Portfolio, documentation/blog'}],
     navbar: {
       title: 'Jules Peguet',
       logo: {
