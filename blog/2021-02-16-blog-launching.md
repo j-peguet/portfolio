@@ -12,7 +12,7 @@ tags: ['getting Started']
 
 ### Lancement du Site julespeguet.fr
 
-Comme le document d'[intro de la documentation](/docs/), ce blog permettra d'échanger et d'apporter des nmobreuses informations, tutos, retour d'expérience...
+Comme le document d'[intro de la documentation](/docs/), ce blog permettra d'échanger et d'apporter des nombreuses informations, tutos, retour d'expérience...
 
 Si vous voulez rajouter un article, complétez ou corriger 
 
