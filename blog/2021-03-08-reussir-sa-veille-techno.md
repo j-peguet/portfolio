@@ -40,7 +40,7 @@ Tous ces éléments peuvent servir de base à une veille technologique. En fonct
 
 Change tes habitudes et cherche à des endroits qui ne te sont pas familiers.
 
-<img alt="Searching"src="./assets/undraw_searching.svg" width="250"/>
+![veille-techno](assets/undraw_searching.svg)
 
 ## Va plus loin et sois __proactif__
 
@@ -71,7 +71,7 @@ Personnellement je suis abonné à
 
 __Divers choix à toi de faire le tien !__
 
-<img alt="Web Searching"src="./assets/undraw_Web_search.svg" width="250"/>
+![veille-techno](assets/undraw_Web_search.svg)
 
 ## Conserve ton __travail__
 
@@ -94,7 +94,7 @@ Créer des dossiers et sous-dossiers de favoris avec ton navigateur internet (ma
 Et même créer ton propre blog, des outils comme [Wordpress](https://wordpress.com/fr/) ou [Bookstack](https://www.bookstackapp.com/) permettent de débuter sans avoir beaucoup de connaissance sur le fonctionnement d'un site web. Développer son propre site est tentant, néanmoins attention, ceci est très chronophage.
 Cela permet également de démontrer ta capacité à centraliser de l'information et toujours un petit plus sur le CV.
 
-<img alt="Package"src="./assets/undraw_collecting.svg" width="200"/>
+![veille-techno](assets/undraw_collecting.svg)
 
 ## Démontre tes acquis, fais des __POC__
 
@@ -118,7 +118,7 @@ De nombreuses formations existent, elles permettent de découvrir mais égalemen
 Certaines sont payantes :moneybag:, __attention__ de mon expérience les formations payantes ne sont pas plus enrichissantes que les tutos, blocs, forums trouvé sur internet. Elles permettent seulement d'avoir un accès *"rapide"* à de l'information de manière bien regroupée et classée. 
 Et cela ne vaut pas l'expérience et la satisfaction acquise par la recherche personnelle.
 
-<img alt="POC"src="./assets/undraw_dev_focus.svg" width="250"/>
+![veille-techno](assets/undraw_dev_focus.svg)
 
 ## Et les __outils__ préfait dans tous ça ?
 
@@ -149,11 +149,11 @@ En se créant un espace de veille transmissible (cf [Conserve ton travail](#cons
 
 Si vos écoles proposent un système de tutorats ou de soutien, y participer permet d'aider et de renforcer ses connaissances.
 
-<img alt="Sharing"src="./assets/undraw_pizza_sharing.svg" width="250"/>
+![veille-techno](assets/undraw_pizza_sharing.svg)
 
 ## Alors, que vas-tu adopter ?
 
-<img alt="Mic Drop"src="./assets/undraw_mic_drop.svg" width="200"/>
+![veille-techno](assets/undraw_mic_drop.svg)
 
 Merci d'avoir lu cet article, l'idée m'est venue lors d'un cours sur la veille techno en me rendant compte que tout le monde en faisait sans le savoir (thx les amis).
 

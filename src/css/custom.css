@@ -31,3 +31,11 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+
+/**
+*   ---- Blog ----
+**/
+
+/* Img reussir-sa-veille-techno */
+img[alt=veille-techno] { width: 250px; }
