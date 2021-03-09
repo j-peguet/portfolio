@@ -23,7 +23,7 @@ Voir pour certaine personne, un moyen de montrer leur appartenance à "ceux fais
 La veille technologique n'est pas une chose que l'on doit faire (comme une tâche ou un besoin) ou même une obligation. 
 C'est une manière de **collecter** de l'information, de la __partager__ et surtout d'__apprendre__.
 
-Il vaux mieux se consacrer sur des thèmes que l'ont apprécie, plutôt que ceux imposé (attention à ne pas se fermer aux restes des oportunités).
+Il vaut mieux choisir des thèmes que l'on apprécie, plutôt que ceux imposés (attention à ne pas se fermer aux restes des opportunités).
 
 Etant dans le domaine de l'IT (numérique, developpement, etc...) cet article sera consacré dans ce domaine surtout pour ces exemples. 
 Mais je suis certain qu'il pourra servir au-delà. :smiley:
@@ -57,19 +57,19 @@ Permettant de progresser par la théorie et la pratique.
 Dans les livres, ce n'est pas donné à tout le monde d'en écrire et ce sont des ouvrages relus et sérieux (attention à leurs dates de publication). 
 Cela peut représenter un investissment, les livres étant chers à produire.
 
-__Via des conférence__, les personnes sont là pour donner un retour d'éxpérience et a éveiller ta curiosité sur une méthode, un outil. 
-Elle permettent de découvrir un nouveau sujet, mais ne sont pas là pour te former.
+__Via des conférences__, les personnes sont là pour donner un retour d'expérience et a éveiller ta curiosité sur une méthode, un outil. 
+Elles permettent de découvrir un nouveau sujet, mais ne sont pas là pour te former.
 
 Mais également sur les réseaux sociaux (Twitter, Reddit), sur YouTube de nombreuses personnes partages leurs connaissances.
 
 Et les immanquables newsletters, il en existe sur tous les thèmes possibles et a des fréquences différentes et écrites par des personnes spécialisées, permettant d'avoir une vision large des sujets. 
 Elle apporte surtout de la diversité au niveau des thèmes (peu de redite) et sont toujours d'actualité.
 
-Personnellement je suis abonné à
+Personnellement, je suis abonné à:
 * [Radar](https://www.thoughtworks.com/radar)
 * [JSWeekly](https://javascriptweekly.com/)
 
-__Divers choix à toi de faire le tien !__
+__Divers choix, à toi de faire le tien !__
 
 ![veille-techno](assets/undraw_Web_search.svg)
 
@@ -105,11 +105,11 @@ Cela permet également de démontrer ta capacité à centraliser de l'informatio
     * Tutos
     * Formations - *[w3schools](https://www.w3schools.com/), [pluralsight](https://www.pluralsight.com/)*
 
-La théorié c'est bien, mais la pratique l'est tout autant.
+La théorie c'est bien, mais la pratique l'est tout autant.
 
 Il est important de mettre en pratique les connaissances acquise, afin de les confirmer et de se rendre compte d'éventuelles difficultés ou d'éléments imprévus.
 
-Il existe de beaucoup de solutions. La plus simple étant le __Getting Started__ prévu par de nombreux languagues de programation.
+Il existe de beaucoup de solutions. La plus simple étant le __Getting Started__ prévu par de nombreux langagues de programation.
 Ils permettent de comprendre le fonctionnement du langague et ces spécificités. De nombreux exemples permettent aussi de mettre directement en pratique.
 
 N'hésite pas à stocker tes développements, tests de techno, projets perso ou de cours sur des plateformes [Github](https://github.com/) (plus orienté communauté), [Gitlab](https://gitlab.com/). Afin de les retrouver depuis n'importe où.
@@ -120,14 +120,16 @@ Et cela ne vaut pas l'expérience et la satisfaction acquise par la recherche pe
 
 ![veille-techno](assets/undraw_dev_focus.svg)
 
-## Et les __outils__ préfait dans tous ça ?
+## Et les __agrégateurs__ de flux dans tout ça ?
 
-De nombreux outils existent pour automatiser la veille technologique comme [Netvibes](https://www.netvibes.com).
+De nombreux outils existent pour automatiser la veille technologique comme [Feedly](https://feedly.com/) ou [Netvibes](https://www.netvibes.com).
 
-Je ne recommande pas ces outils. Ils vous permettent certes de regrouper des flux RSS de manière simplifiée, mais il est important d'identifier deux choses:
+Personnellement, je ne recommanderais pas ces outils.
+
+Ils vous permettent, certes, de regrouper des flux RSS de manière simplifiée, mais il est important d'identifier deux choses:
 * L'entièreté des articles ne passent pas dans ces flux (pour prendre l'exemple de Medium).
 * Ces informations seront basées sur vos actualités favorites (comme les recommandations YouTube), vous enfermant dans le même style de nouveautés.
-Là ou une newsletter sera écrite par une personne ne connaissant pas vos habitudes.
+Là où une newsletter sera écrite par une personne ne connaissant pas vos habitudes.
 
 Il sera plus intéressant de chercher des mots clés sur internet pour avoir les résultats les plus récents et pertinents, plutôt qu'attendre sagement que l'information vienne à soi.
 
