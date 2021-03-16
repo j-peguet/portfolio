@@ -57,6 +57,14 @@ module.exports = {
       ],
     },
     {
+      type: 'category',
+      label: 'PostgreSQL',
+      collapsed: true,
+      items: [
+        'PostgreSQL/configure-master-slave'
+      ]
+    },
+    {
       type: 'link',
       label: 'Custom Label', // The label that should be displayed (string).
       href: 'https://example.com' // The target URL (string).
