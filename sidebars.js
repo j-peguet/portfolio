@@ -6,8 +6,8 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Kubernetes',
-      collapsed: false,
+      label: 'Kubernetes Basic',
+      collapsed: true,
       items: [
         {
           'Installation & Configuration' : [
@@ -55,6 +55,16 @@ module.exports = {
           ],
         },
       ],
+    },
+    {
+      type: 'category',
+      label: 'Kubernetes Advanced',
+      collapsed: false,
+      items: [
+        'Kubernetes-Advanced/install-calico',
+        'Kubernetes-Advanced/install-calico-beta',
+        'Kubernetes-Advanced/install-kubespray',
+      ]
     },
     {
       type: 'category',
