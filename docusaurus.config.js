@@ -110,6 +110,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/j-peguet/portfolio/blob/master/',
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,

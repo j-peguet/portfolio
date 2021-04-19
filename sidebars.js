@@ -61,9 +61,13 @@ module.exports = {
       label: 'Kubernetes Advanced',
       collapsed: false,
       items: [
+        'Kubernetes-Advanced/setup-vm',
         'Kubernetes-Advanced/install-calico',
         'Kubernetes-Advanced/install-calico-beta',
         'Kubernetes-Advanced/install-kubespray',
+        'Kubernetes-Advanced/install-metallb',
+        'Kubernetes-Advanced/install-traefik',
+        'Kubernetes-Advanced/install-longhorn',
       ]
     },
     {
