@@ -101,6 +101,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Jules Peguet`,
     },
   },
+  themes: ['@docusaurus/theme-live-codeblock'],
   presets: [
     [
       '@docusaurus/preset-classic',
