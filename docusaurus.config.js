@@ -63,7 +63,11 @@ module.exports = {
             },
             {
               label: 'Kubernetes Installation',
-              to: 'docs/Kubernetes/1_install_&_configuration/1_install_VM',
+              to: 'docs/Kubernetes/install_&_configuration/1_install_VM',
+            },
+            {
+              label: 'Masterings Arrays',
+              to: 'docs/javascript/mastering-arrays',
             },
           ],
         },
