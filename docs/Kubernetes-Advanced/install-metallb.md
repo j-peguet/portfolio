@@ -8,7 +8,7 @@ MetalLB est un service de load-balancer pour cluster bare metal Kubernetes.
 Il permet de configurer un service load balancer avec les services qui seront déployés sur le cluster. 
 Ce service permet de compenser les inconvénients des outils "NodePort" et "externalIPs", qui limitent une bonne utilistion en production.
 
-Lien vers la documentation officelle: https://metallb.universe.tf/installation/
+Lien vers la documentation officielle: https://metallb.universe.tf/installation/
 
 ## Installation de MetalLB
 

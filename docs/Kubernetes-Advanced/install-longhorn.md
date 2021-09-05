@@ -3,7 +3,7 @@ id: install-longhorn
 title: Install Longhorn
 ---
 
-Lien vers la documentation officelle: https://longhorn.io/docs/1.1.0/deploy/install/
+Lien vers la documentation officielle: https://longhorn.io/docs/1.1.0/deploy/install/
 
 check is longhorn est possible
 

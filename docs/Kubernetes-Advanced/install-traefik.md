@@ -8,7 +8,7 @@ Traefik est un reverse-proxy, il permet à vos utilisateurs d'avoir accès à vo
 Son principal avantage est qu'il est nativement compatible avec tous les types de cluster existant (Kubernetes, AWS, GCP, ...).
 Cela permet de manager l'ensemble des services présent dans son infrastrucure simplement.
 
-Lien vers la documentation officelle: https://doc.traefik.io/traefik/
+Lien vers la documentation officielle: https://doc.traefik.io/traefik/
 
 ## Installation de Traefik
 

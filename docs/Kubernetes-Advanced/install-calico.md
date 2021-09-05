@@ -7,7 +7,7 @@ Dans cet exemple nous allons créer un Single Master Kubernetes avec Calico.
 
 Les machines doivent être initialisées en suivant le tuto: [Setup VM](./setup-vm.md).
 
-Lien vers la documentation officelle: [docs.projectcalico.org](https://docs.projectcalico.org/getting-started/kubernetes/self-managed-onprem/onpremises).
+Lien vers la documentation officielle: [docs.projectcalico.org](https://docs.projectcalico.org/getting-started/kubernetes/self-managed-onprem/onpremises).
 
 ## Installation du cluster
 

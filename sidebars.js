@@ -75,6 +75,7 @@ module.exports = {
       label: 'PostgreSQL',
       collapsed: true,
       items: [
+        'PostgreSQL/install-postgresql',
         'PostgreSQL/configure-master-slave'
       ]
     },
@@ -83,7 +84,16 @@ module.exports = {
       label: 'JavaScript',
       collapsed: true,
       items: [
-        'javascript/mastering-arrays'
+        'Javascript/mastering-arrays'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Keycloak',
+      collapsed: true,
+      items: [
+        'Keycloak/install-keycloak',
+        'Keycloak/domain-clustered-mode'
       ]
     }
   ]
