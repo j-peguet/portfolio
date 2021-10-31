@@ -73,7 +73,24 @@ cd domain/configuration
 nano domain.xml
 ```
 
-Dans ce fichier, nous recherchons le driver <code>com.h2database.h2</code> déjà déclaré.
+Supprimer la ligne suivante, puisqu'un serveur de load-balancer spécifique va être installé
+```xml
+<server-group name="load-balancer-group" profile="load-balancer">
+    <jvm name="default">
+        <heap size="64m" max-size="512m"/>
+    </jvm>
+    <socket-binding-group ref="load-balancer-sockets" default-interface="public"/>
+</server-group>
+```
+
+Retirer load balancer dans le fichier host-master.xml
+```xml
+<server name="load-balancer" group="load-balancer-group">
+    <jvm name="default"/>
+</server>
+```
+
+Dans le fichier domain.xml, nous recherchons le driver <code>com.h2database.h2</code> déjà déclaré.
 
 Le nom du driver peut être choisi selon vos envie, le <code>module</code> correspond à celui créer précédemment.
 
@@ -156,8 +173,8 @@ Peut importe le load balancer choisi, il est important de rajouter les headers H
 ```
 http {
         upstream keycloak {
-               server <you_ip_1>:8080 fail_timeout=2s;
-               server <you_ip_2>:8080 fail_timeout=2s;
+               server <your_ip_1>:8080 fail_timeout=2s;
+               server <your_ip_2>:8080 fail_timeout=2s;
         }
 
         server {
@@ -177,4 +194,25 @@ http {
         }
     ...
 }
+```
+
+Modif user add ./adduser.sh
+```xml
+<management>
+    <security-realms>
+        <security-realm name="ManagementRealm">
+            <server-identities>
+                <secret value="bWdtdDEyMyE="/>
+            </server-identities>
+```
+
+Copier le XML avec le secret
+Rajouter admin
+```xml
+<remote security-realm="ManagementRealm" username="admin">
+```
+
+Lancer le serveur ?
+```bash
+domain.sh -Djboss.http.port=80 --host-config=host-master.xml
 ```
