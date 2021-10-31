@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1484],{6914:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/veille-techno","name":"veille techno","count":1,"permalink":"/blog/tags/veille-techno"}')}}]);

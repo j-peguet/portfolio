@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"R\xe9ussir sa veille techno","permalink":"/blog/reussir-sa-veille-techno"},{"title":"Blog Launching","permalink":"/blog/blog-launching"}]}')}}]);
