@@ -8,6 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'j-peguet', // Usually your GitHub org/user name.
+  trailingSlash: false,
   projectName: 'portfolio', // Usually your repo name.
   themeConfig: {
     // Metadata
