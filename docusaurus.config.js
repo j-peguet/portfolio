@@ -10,9 +10,9 @@ module.exports = {
   organizationName: 'j-peguet', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   themeConfig: {
-    // Metadatas
+    // Metadata
     image: 'img/logo.jpg',
-    metadatas: [
+    metadata: [
       // Primary Meta Tags
       {name: 'description', content: 'Jules Peguet'},
       {name: 'description', content: 'Portfolio, documentation/blog'},
@@ -76,7 +76,7 @@ module.exports = {
           items: [
             {
               label: 'Linkedin',
-              href: 'https://www.linkedin.com/in/jules-peguet',
+              href: 'https://www.linkedin.com/in/j-peguet',
             },
             {
               label: 'Twitter',

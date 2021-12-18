@@ -8,6 +8,12 @@ module.exports = {
       type: 'category',
       label: 'Kubernetes Basic',
       collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'Kubernetes Basic',
+        description: 'Learn about the most important Kubernetes Basic concepts!',
+        slug: '/Kubernetes-Basic',
+      },
       items: [
         {
           'Installation & Configuration' : [
@@ -60,6 +66,12 @@ module.exports = {
       type: 'category',
       label: 'Kubernetes Advanced',
       collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'Kubernetes Advanced',
+        description: 'Learn about the most important Kubernetes Advanced concepts!',
+        slug: '/Kubernetes-Advanced',
+      },
       items: [
         'Kubernetes-Advanced/setup-vm',
         'Kubernetes-Advanced/install-calico',
@@ -74,6 +86,12 @@ module.exports = {
       type: 'category',
       label: 'PostgreSQL',
       collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'PostgreSQL',
+        description: 'Learn about the most important PostgreSQL concepts!',
+        slug: '/PostgreSQL',
+      },
       items: [
         'PostgreSQL/install-postgresql',
         'PostgreSQL/configure-master-slave'
@@ -83,6 +101,12 @@ module.exports = {
       type: 'category',
       label: 'JavaScript',
       collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'JavaScript',
+        description: 'Learn about the most important JavaScript concepts!',
+        slug: '/JavaScript',
+      },
       items: [
         'Javascript/mastering-arrays'
       ]
@@ -91,6 +115,12 @@ module.exports = {
       type: 'category',
       label: 'Keycloak',
       collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'Keycloak',
+        description: 'Learn about the most important Keycloak concepts!',
+        slug: '/Keycloak',
+      },
       items: [
         'Keycloak/install-keycloak',
         'Keycloak/domain-clustered-mode'
