@@ -1,10 +1,7 @@
 ---
 slug: reussir-sa-veille-techno
 title: Réussir sa veille techno
-author: Jules Peguet
-author_title: Front End Engineer
-author_url: https://github.com/j-peguet
-author_image_url: https://avatars.githubusercontent.com/u/36530293?s=460&u=01882785b080ca7b6c6f195299102ec99ffae8c6&v=4
+authors: j-peguet
 tags: ['veille techno']
 ---
 

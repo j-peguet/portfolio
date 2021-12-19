@@ -15,8 +15,8 @@ N'hésitez pas à fork le projet, afin d'y ajouter de nouvelles informations.
 Vous pouvez me suivre sur ces réseaux:
 
 * [Github](https://github.com/j-peguet)
-* [Twitter](https://twitter.com/Jules_Peguet)
-* [Linkedin](https://www.linkedin.com/in/jules-peguet/)
+* [Twitter](https://twitter.com/j_peguet)
+* [Linkedin](https://www.linkedin.com/in/j-peguet/)
 * [Mail](mailto:jules.peguet@epsi.fr)
 
 ### Happy Hacking

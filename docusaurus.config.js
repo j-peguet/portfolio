@@ -81,7 +81,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/Jules_Peguet',
+              href: 'https://twitter.com/j_peguet',
             },
             {
               label: 'Mail',
@@ -120,6 +120,8 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+            defaultReadingTime({content, options: {wordsPerMinute: 100}}),
           // Please change this to your repo.
           editUrl:
             'https://github.com/j-peguet/portfolio/blob/master/',
