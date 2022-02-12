@@ -125,6 +125,20 @@ module.exports = {
         'Keycloak/install-keycloak',
         'Keycloak/domain-clustered-mode'
       ]
+    },
+    {
+      type: 'category',
+      label: 'React',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: 'React',
+        description: 'Some React components in a Markdown file',
+        slug: '/React',
+      },
+      items: [
+        'React/ponce-graph'
+      ]
     }
   ]
 };
