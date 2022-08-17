@@ -10,8 +10,8 @@
 
 <img src="https://img.shields.io/badge/host-Github%20pages-blue" alt="Host github"/>
 
-<a href="https://twitter.com/Jules_Peguet">
-<img src="https://img.shields.io/twitter/follow/Jules_Peguet.svg?style=social" alt="Twitter Follow" />
+<a href="https://twitter.com/j_peguet">
+<img src="https://img.shields.io/twitter/follow/j_peguet.svg?style=social" alt="Twitter Follow" />
 </a>
 
 </p>

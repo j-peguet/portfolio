@@ -3,11 +3,11 @@ id: mastering-arrays
 title: Mastering Arrays
 ---
 
-Pour apprendre à connaitre et maitriser les tabeaux en JS.
+Pour apprendre à connaitre et maitriser les tableaux en JS.
 
 ## Trier
 ### sort
-Cette méthode tri les éléments du tableau en fonction d'une condition.
+Cette méthode trie les éléments du tableau en fonction d'une condition.
 ```js live
 function Sort() {
   let myArray = [6,9,4,8,3,7,1,5,2]

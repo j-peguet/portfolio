@@ -51,7 +51,12 @@ module.exports = {
         },
       ],
     },
-    hideableSidebar: true,
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     footer: {
       style: 'dark',
       links: [
