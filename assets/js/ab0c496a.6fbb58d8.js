@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1484],{1577:e=>{e.exports=JSON.parse('{"label":"veille techno","permalink":"/blog/tags/veille-techno","allTagsPath":"/blog/tags","count":1}')}}]);
