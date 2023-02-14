@@ -16,6 +16,6 @@ Si vous voulez rajouter un article, complétez ou corriger
 :arrow_right: contactez moi:
 
 * [Github](https://github.com/j-peguet)
-* [Twitter](https://twitter.com/Jules_Peguet)
-* [Linkedin](https://www.linkedin.com/in/jules-peguet/)
+* [Twitter](https://twitter.com/j_peguet)
+* [Linkedin](https://www.linkedin.com/in/j-peguet)
 * [Mail](mailto:jules.peguet@epsi.fr)

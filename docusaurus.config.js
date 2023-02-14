@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'j-peguet', // Usually your GitHub org/user name.
   trailingSlash: false,
   projectName: 'portfolio', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   themeConfig: {
     // Metadata
     image: 'img/logo.jpg',
